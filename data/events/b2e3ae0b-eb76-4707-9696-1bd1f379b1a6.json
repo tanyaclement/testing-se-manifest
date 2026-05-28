@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "3afc740a-e44e-4afd-9a90-e848c12d6ccd": {
+      "label": "AV File 1",
+      "file_url": "https://scholarlyediting.org/phillips.mp3",
+      "duration": 2398,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-05-28T23:06:38.013Z",
+  "created_by": "tanyaclement",
+  "label": "Phillips",
+  "updated_at": "2026-05-28T23:06:38.013Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}

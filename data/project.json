@@ -24,11 +24,25 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julian Chambliss"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rasheedah Phillips"
+        }
+      ]
     },
     "created_at": "2026-05-28T21:12:40.008Z",
-    "updated_at": "2026-05-28T21:12:40.008Z",
+    "updated_at": "2026-05-28T23:06:38.454Z",
     "generate_pages_site": true
   },
   "annotations": {},
