@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-05-28T21:12:40.008Z",
-    "updated_at": "2026-05-28T21:12:40.008Z"
-  }
+    "updated_at": "2026-05-28T21:12:40.008Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "faeef23a-3f05-4ad5-bce8-797aaf9961c6": {
+      "content": [],
+      "created_at": "2026-05-28T21:12:40.044Z",
+      "created_by": "tanyaclement",
+      "title": "testing project",
+      "updated_at": "2026-05-28T21:12:40.044Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "faeef23a-3f05-4ad5-bce8-797aaf9961c6"
+  ]
 }
